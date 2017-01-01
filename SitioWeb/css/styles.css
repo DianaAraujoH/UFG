@@ -1,0 +1,17 @@
+#contenedor{
+	width: 400px;
+	margin-top: 5%;
+
+	
+}
+
+body{
+ /*background-color: #ECE7E7;*/
+}
+
+#personas {
+    margin-top: 10%;
+    width: 500px;
+    padding-bottom: 20px;
+   /* background-color:rgb(213, 210, 210); */
+}
