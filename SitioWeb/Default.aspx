@@ -53,7 +53,7 @@
                 
     <form class="form-signin"  runat="server">
    
-            Codigo Persona <asp:TextBox ID="txtidpersona" class="form-control"  runat="server"></asp:TextBox>
+            Codigo Persona <asp:TextBox ID="txtidpersona" class="form-control"  runat="server" ></asp:TextBox>
         <br />
         Nombre<asp:TextBox ID="txtnombre" class="form-control" runat="server"></asp:TextBox>
         <br />
@@ -95,7 +95,21 @@
 
        
         </div>
-
+    <br />
+    <br />
+      <!-- Footer -->
+    <footer class="text-center">
+      
+        <div class="footer-below">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        Copyright &copy; Your Website 2016
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 
     <script type="text/javascript" src="js/jquery.js"></script>
         

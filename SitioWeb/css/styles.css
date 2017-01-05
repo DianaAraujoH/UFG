@@ -1,17 +1,24 @@
 #contenedor{
 	width: 400px;
 	margin-top: 5%;
-
-	
+    background-color:rgb(233, 233, 233);
 }
 
 body{
- /*background-color: #ECE7E7;*/
+ 
 }
 
 #personas {
-    margin-top: 20%;
+    margin-top: 10%;
     width: 500px;
     padding-bottom: 20px;
-   /* background-color:rgb(213, 210, 210); */
+    
+}
+
+
+
+#footer1 {
+    margin-bottom: 10px;
+    padding-top: 50px;
+    
 }
